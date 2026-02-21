@@ -1,9 +1,0 @@
-
-## Token Budgeting
-
-Tokens are estimated using a simple heuristic: **~4 characters per token**.
-
-Default budget is **4000 tokens** (~16,000 characters), which fits comfortably in most AI context windows while leaving room for conversation.
-
-You can adjust the budget based on your needs:
-
