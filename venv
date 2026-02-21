@@ -1,0 +1,7 @@
+
+Patterns follow the same format as `.gitignore`.
+
+## Storage
+
+Snapshots are stored in `~/.ctx-handoff/`:
+

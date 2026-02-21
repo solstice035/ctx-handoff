@@ -1,0 +1,10 @@
+
+**Platform support:**
+- macOS: Uses `pbcopy`
+- Linux: Uses `xclip` or `xsel` (install with `apt-get install xclip`)
+- Windows: Uses `clip`
+
+### `ctx list` - List snapshots
+
+Shows all saved snapshots in a table.
+

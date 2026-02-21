@@ -1,0 +1,25 @@
+
+## License
+
+MIT License - see LICENSE file for details.
+
+## Contributing
+
+Contributions welcome! Please open an issue or PR.
+
+## Roadmap
+
+- [ ] Support for multiple git remotes
+- [ ] Diff highlighting in output
+- [ ] Export to various formats (PDF, HTML)
+- [ ] Integration with popular AI tools (API support)
+- [ ] Snapshot comparison/diff
+- [ ] Custom templates for different project types
+- [ ] Automatic snapshot on git hooks
+
+## Credits
+
+Built with:
+- [Typer](https://typer.tiangolo.com/) - CLI framework
+- [Rich](https://rich.readthedocs.io/) - Terminal formatting
+- [GitPython](https://gitpython.readthedocs.io/) - Git operations
