@@ -28,7 +28,7 @@ pipx install ctx-handoff
 pip install ctx-handoff
 
 # From source (development)
-git clone https://github.com/the-foundry-bot/foundry-2026-02-21-ctx-handoff.git
+git clone https://github.com/solstice035/ctx-handoff.git
 cd ctx-handoff
 pip install -e ".[dev]"
 ```

@@ -44,9 +44,9 @@ dev = [
 ctx = "ctx_handoff.cli:app"
 
 [project.urls]
-Homepage = "https://github.com/yourusername/ctx-handoff"
-Repository = "https://github.com/yourusername/ctx-handoff"
-Issues = "https://github.com/yourusername/ctx-handoff/issues"
+Homepage = "https://github.com/solstice035/ctx-handoff"
+Repository = "https://github.com/solstice035/ctx-handoff"
+Issues = "https://github.com/solstice035/ctx-handoff/issues"
 
 [tool.setuptools.packages.find]
 where = ["src"]
